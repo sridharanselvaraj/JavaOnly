@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e16470aa-9218-4e62-828c-527de3c8b206" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/embedded0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/formatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/jquery-1.8.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberBasics/target/test-classes/features/carSearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/classes/pages/actions/CarsGuideHomePageAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/classes/pages/actions/CarsSearchPageActions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/classes/pages/actions/UsedCarsSearchPageAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/classes/pages/locators/CarSearchPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/classes/pages/locators/CarsGuideHomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/classes/pages/locators/UsedCarSearchPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/classes/pages/utils/SeleniumDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/cucumber/embedded0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/cucumber/formatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/cucumber/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/cucumber/jquery-1.8.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/cucumber/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/cucumber/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/test-classes/features/SearchCars.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/test-classes/features/UsedCarsSearch.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/test-classes/runners/RunTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/test-classes/steps/AfterActions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/test-classes/steps/BeforeAction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/test-classes/steps/SearchCarsSteps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/test-classes/steps/UsedCarsSteps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Motherboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Resolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositionChallenge/Bed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositionChallenge/Bedroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositionChallenge/Ceiling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositionChallenge/Lamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositionChallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompositionChallenge/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Encapsulation/EnhancedPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Encapsulation/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Case.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Dimensions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Monitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Motherboard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Composition/PC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Resolution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/CompositionChallenge/Bed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/CompositionChallenge/Bedroom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/CompositionChallenge/Ceiling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/CompositionChallenge/Lamp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/CompositionChallenge/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/CompositionChallenge/Wall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Constructors/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Constructors/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Constructors/VipPerson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Exceptions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Inheritance/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Inheritance/Dog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Inheritance/Fish.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Inheritance/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/InheritanceChallenge/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/InheritanceChallenge/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/InheritanceChallenge/Outlander.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/InheritanceChallenge/Vehicle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/OOPS/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/OOPS/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Operators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/bands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/java8/J8Ex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/java8/LambdaEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/java8/MyNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/java8/People.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/java8/Recurson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/java8/StreamEx.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Checkout.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/RunTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/checkoutTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/feature/checkout.feature" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/CucumberBasics/target/" />
+    <ignored path="$PROJECT_DIR$/cucumberPageObject/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Printer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Printer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+              <folding>
+                <element signature="e#1158#1159#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Encapsulation/Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding>
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Singleton" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>carsSearchPage</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>usedCarSearchPage</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/locators/carsGuideHomePage.java" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/locators/CarSearchPage.java" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/actions/CarsGuideHomePageAction.java" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/actions/CarsSearchPageActions.java" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/locators/CarsGuideHomePage.java" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/utils/SeleniumDriver.java" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/AfterActions.java" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/BeforeAction.java" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/SearchCarsSteps.java" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/SearchCars.feature" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/pom.xml" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/locators/UsedCarSearchPage.java" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/actions/UsedCarsSearchPageAction.java" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/UsedCarsSteps.java" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/UsedCarsSearch.feature" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/test/java/runners/RunTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOPS/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/OOPS/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Constructors/BackAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Constructors/VipPerson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Constructors/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Constructors/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Inheritance/Animal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Inheritance/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Inheritance/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Inheritance/Fish.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InheritanceChallenge/Outlander.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InheritanceChallenge/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InheritanceChallenge/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InheritanceChallenge/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Composition/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Composition/Motherboard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Composition/Monitor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Composition/Resolution.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Composition/Case.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Composition/Dimensions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Composition/Car.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Composition/PC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompositionChallenge/Wall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompositionChallenge/Ceiling.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompositionChallenge/Bedroom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompositionChallenge/Bed.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompositionChallenge/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Composition/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CompositionChallenge/Lamp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Encapsulation/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Encapsulation/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Encapsulation/EnhancedPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Printer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cucumberPageObject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cucumberPageObject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="cucumberPageObject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JavaOnly" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="JavaOnly" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="314" />
+    <option name="width" value="885" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\cucumberPageObject\src\test\resources\drivers" />
+      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\CucumberBasics\src\test\resources\driver" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="runners" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\CucumberBasics\src\test" />
+      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\src\test\resources\driver" />
+      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\src\main\java" />
+      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\src\test" />
+      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EncapsulationChallenge.Main" />
+      <module name="JavaOnly" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EncapsulationChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InheritanceChallenge.Main" />
+      <module name="JavaOnly" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InheritanceChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Composition.Main" />
+      <module name="JavaOnly" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Composition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompositionChallenge.Main" />
+      <module name="JavaOnly" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CompositionChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encapsulation.Main" />
+      <module name="JavaOnly" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (5)" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e16470aa-9218-4e62-828c-527de3c8b206" name="Default" comment="" />
+      <created>1523181766610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523181766610</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial practical Examples Java 8">
+      <created>1523817640638</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523817640639</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial practical Examples Java 8">
+      <created>1524334992266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524334992266</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial practical Examples Java 8">
+      <created>1524335227151</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524335227151</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Selenium Cucumber Projects">
+      <created>1524335364184</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1524335364184</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Inheritance Java core">
+      <created>1524421803492</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1524421803492</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RunTest - 2018.04.21 at 16h 44m 38s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Feature__UsedCarsSearch - 2018.04.21 at 16h 45m 12s.xml">
+      <configuration name="Feature: UsedCarsSearch" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__UsedCarsSearch - 2018.04.21 at 16h 57m 09s.xml">
+      <configuration name="Feature: UsedCarsSearch" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="RunTest - 2018.04.21 at 16h 58m 47s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2018.04.21 at 17h 01m 19s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Feature__UsedCarsSearch_(1) - 2018.04.21 at 18h 48m 33s.xml">
+      <configuration name="Feature: UsedCarsSearch (1)" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="RunTest - 2018.04.21 at 19h 11m 39s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2018.04.21 at 19h 14m 17s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2018.04.21 at 19h 16m 29s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RunTest - 2018.04.21 at 19h 18m 05s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49848714" weight="0.29983526" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.35255355" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.35255355" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.3294893" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49848714" weight="0.24546953" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2549168" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39868203" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="12" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.28548124" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="12" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.3294893" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25113463" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39868203" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49848714" weight="0.24546953" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.35255355" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.35255355" />
+      <window_info anchor="right" id="sbt" order="5" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.28548124" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49848714" weight="0.29983526" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial practical Examples Java 8" />
+    <MESSAGE value="Selenium Cucumber Projects" />
+    <MESSAGE value="Inheritance Java core" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance Java core" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CucumberBasics/src/test/resources/features/carSearch.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CucumberBasics/src/test/java/steps/CarSearchSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="32" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/BeforeAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/AfterActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/SearchCarsSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="78" selection-start-line="69" selection-start-column="3" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/SearchCars.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/UsedCarsSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/actions/UsedCarsSearchPageAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/UsedCarsSearch.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Constructors/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Constructors/VipPerson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Constructors/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/runners/RunTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/locators/CarsGuideHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/locators/UsedCarSearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/locators/CarSearchPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/actions/CarsSearchPageActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/utils/SeleniumDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-321">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/actions/CarsGuideHomePageAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Inheritance/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="27" column="49" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Inheritance/Fish.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Inheritance/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Inheritance/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="46" column="3" selection-start-line="46" selection-start-column="3" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InheritanceChallenge/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InheritanceChallenge/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InheritanceChallenge/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="81" selection-start-line="28" selection-start-column="81" selection-end-line="28" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InheritanceChallenge/Outlander.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Composition/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Composition/Motherboard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Composition/Resolution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Composition/Monitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Composition/Dimensions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CompositionChallenge/Lamp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CompositionChallenge/Bed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="19" column="42" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CompositionChallenge/Bedroom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Composition/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CompositionChallenge/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CompositionChallenge/Wall.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CompositionChallenge/Ceiling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Composition/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Composition/Case.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#578#579#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Composition/PC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Encapsulation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="19" column="58" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Encapsulation/EnhancedPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Encapsulation/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+          <folding>
+            <element signature="e#1158#1159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaOnly</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
