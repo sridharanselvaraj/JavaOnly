@@ -2,101 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e16470aa-9218-4e62-828c-527de3c8b206" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/embedded0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/formatter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/jquery-1.8.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CucumberBasics/target/test-classes/features/carSearch.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/classes/pages/actions/CarsGuideHomePageAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/classes/pages/actions/CarsSearchPageActions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/classes/pages/actions/UsedCarsSearchPageAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/classes/pages/locators/CarSearchPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/classes/pages/locators/CarsGuideHomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/classes/pages/locators/UsedCarSearchPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/classes/pages/utils/SeleniumDriver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/cucumber/embedded0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/cucumber/formatter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/cucumber/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/cucumber/jquery-1.8.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/cucumber/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/cucumber/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/test-classes/features/SearchCars.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/test-classes/features/UsedCarsSearch.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/test-classes/runners/RunTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/test-classes/steps/AfterActions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/test-classes/steps/BeforeAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/test-classes/steps/SearchCarsSteps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cucumberPageObject/target/test-classes/steps/UsedCarsSteps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Composition/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CompositionChallenge/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CompositionChallenge/Bedroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CompositionChallenge/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CompositionChallenge/Lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CompositionChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CompositionChallenge/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Encapsulation/EnhancedPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Encapsulation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Encapsulation/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Case.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Dimensions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Monitor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Motherboard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Composition/PC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Resolution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Composition/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CompositionChallenge/Bed.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CompositionChallenge/Bedroom.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CompositionChallenge/Ceiling.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CompositionChallenge/Lamp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CompositionChallenge/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CompositionChallenge/Wall.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Constructors/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Constructors/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Constructors/VipPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Exceptions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Inheritance/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Inheritance/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Inheritance/Fish.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Inheritance/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/InheritanceChallenge/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/InheritanceChallenge/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/InheritanceChallenge/Outlander.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/InheritanceChallenge/Vehicle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/OOPS/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/OOPS/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Operators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/bands.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/java8/J8Ex.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/java8/LambdaEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/java8/MyNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/java8/People.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/java8/Recurson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/java8/StreamEx.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Checkout.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/RunTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/SeleniumTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/checkoutTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/feature/checkout.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MasterChallenge/DeluxBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MasterChallenge/Hanburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MasterChallenge/HealthyBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MasterChallenge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -112,35 +22,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MasterChallenge/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            <state relative-caret-position="323">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Printer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Printer.java">
+      <file leaf-file-name="DeluxBurger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MasterChallenge/DeluxBurger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+            <state relative-caret-position="459">
+              <caret line="27" column="77" selection-start-line="27" selection-start-column="77" selection-end-line="27" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HealthyBurger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MasterChallenge/HealthyBurger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="661">
+              <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
               <folding>
-                <element signature="e#1158#1159#0" expanded="true" />
+                <element signature="e#309#310#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Encapsulation/Player.java">
+      <file leaf-file-name="Hanburger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MasterChallenge/Hanburger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding>
-                <element signature="e#411#412#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1207">
+              <caret line="71" column="67" selection-start-line="71" selection-start-column="67" selection-end-line="71" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -170,15 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/locators/carsGuideHomePage.java" />
-        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/locators/CarSearchPage.java" />
-        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/actions/CarsGuideHomePageAction.java" />
-        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/actions/CarsSearchPageActions.java" />
-        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/locators/CarsGuideHomePage.java" />
-        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/utils/SeleniumDriver.java" />
-        <option value="$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/AfterActions.java" />
-        <option value="$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/BeforeAction.java" />
-        <option value="$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/SearchCarsSteps.java" />
         <option value="$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/SearchCars.feature" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/cucumberPageObject/pom.xml" />
@@ -221,6 +128,15 @@
         <option value="$PROJECT_DIR$/src/main/java/Encapsulation/EnhancedPlayer.java" />
         <option value="$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Printer.java" />
         <option value="$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Polymorphism/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PolymorphismChallenge/Ford.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PolymorphismChallenge/Holden.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PolymorphismChallenge/Molden.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PolymorphismChallenge/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MasterChallenge/Hanburger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MasterChallenge/HealthyBurger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MasterChallenge/DeluxBurger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MasterChallenge/Main.java" />
       </list>
     </option>
   </component>
@@ -273,6 +189,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -302,14 +220,20 @@
               <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="MasterChallenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -320,19 +244,20 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\cucumberPageObject\src\test\resources\drivers" />
-      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\CucumberBasics\src\test\resources\driver" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="runners" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\JavaOnly\CucumberBasics\src\test" />
       <recent name="C:\Users\admin\IdeaProjects\JavaOnly\src\test\resources\driver" />
       <recent name="C:\Users\admin\IdeaProjects\JavaOnly\src\main\java" />
       <recent name="C:\Users\admin\IdeaProjects\JavaOnly\src\test" />
       <recent name="C:\Users\admin\IdeaProjects\JavaOnly\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PolymorphismChallenge" />
+      <recent name="runners" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\cucumberPageObject\src\test\resources\drivers" />
+      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\CucumberBasics\src\test\resources\driver" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -347,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -362,35 +287,35 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InheritanceChallenge.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Main" />
       <module name="JavaOnly" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="InheritanceChallenge.*" />
+          <option name="PATTERN" value="Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Composition.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PolymorphismChallenge.Main" />
       <module name="JavaOnly" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Composition.*" />
+          <option name="PATTERN" value="PolymorphismChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompositionChallenge.Main" />
+      <option name="MAIN_CLASS_NAME" value="MasterChallenge.Main" />
       <module name="JavaOnly" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CompositionChallenge.*" />
+          <option name="PATTERN" value="MasterChallenge.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -463,19 +388,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.Main (4)" />
-      <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Main (5)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -525,7 +450,21 @@
       <option name="project" value="LOCAL" />
       <updated>1524421803492</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Encapsulation Java core">
+      <created>1524600084074</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1524600084074</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Encapsulation Java core">
+      <created>1524689924725</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1524689924725</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -571,20 +510,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.34102142" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49848714" weight="0.29983526" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.35255355" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.35255355" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" weight="0.3294893" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.76112026" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.2948929" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49848714" weight="0.24546953" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2549168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2624811" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="7" />
@@ -593,7 +534,6 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="12" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="sbt" order="5" />
@@ -601,30 +541,30 @@
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="12" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.3294893" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25113463" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.28548124" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.76112026" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294893" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2624811" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.34102142" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="12" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.38385502" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39868203" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49848714" weight="0.24546953" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.35255355" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.35255355" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="sbt" order="5" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.28548124" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49848714" weight="0.29983526" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -637,7 +577,8 @@
     <MESSAGE value="Initial practical Examples Java 8" />
     <MESSAGE value="Selenium Cucumber Projects" />
     <MESSAGE value="Inheritance Java core" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance Java core" />
+    <MESSAGE value="Encapsulation Java core" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encapsulation Java core" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -645,69 +586,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CucumberBasics/src/test/resources/features/carSearch.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="15" column="73" selection-start-line="15" selection-start-column="73" selection-end-line="15" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CucumberBasics/src/test/java/steps/CarSearchSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/BeforeAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/AfterActions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cucumberPageObject/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/SearchCarsSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="78" selection-start-line="69" selection-start-column="3" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/SearchCars.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/OOPS/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -957,9 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding>
-            <element signature="e#578#579#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -981,38 +856,80 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="e#708#709#0" expanded="true" />
-            <element signature="e#737#738#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Encapsulation/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Polymorphism/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="90" column="102" selection-start-line="90" selection-start-column="102" selection-end-line="90" selection-end-column="102" />
           <folding>
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Printer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/PolymorphismChallenge/Ford.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/PolymorphismChallenge/Holden.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/PolymorphismChallenge/Molden.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/PolymorphismChallenge/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+        <state relative-caret-position="185">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MasterChallenge/DeluxBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="77" selection-start-line="27" selection-start-column="77" selection-end-line="27" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MasterChallenge/HealthyBurger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
           <folding>
-            <element signature="e#1158#1159#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/EncapsulationChallenge/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/MasterChallenge/Hanburger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        <state relative-caret-position="1207">
+          <caret line="71" column="67" selection-start-line="71" selection-start-column="67" selection-end-line="71" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MasterChallenge/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
