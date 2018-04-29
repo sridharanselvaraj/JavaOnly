@@ -1,6 +1,0 @@
-pages\locators\CarsGuideHomePage.class
-pages\actions\CarsGuideHomePageAction.class
-pages\locators\CarSearchPage.class
-pages\actions\CarsSearchPageActions.class
-pages\utils\SeleniumDriver.class
-pages\locators\UsedCarSearchPage.class

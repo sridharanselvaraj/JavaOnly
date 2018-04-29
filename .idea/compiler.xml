@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="CucumberBasics" />
         <module name="cucumberPageObject" />
+        <module name="DataDrivenFramework" />
+        <module name="JavaEx" />
       </profile>
     </annotationProcessing>
   </component>

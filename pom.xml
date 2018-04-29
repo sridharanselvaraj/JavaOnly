@@ -23,6 +23,8 @@
     <modules>
         <module>CucumberBasics</module>
         <module>cucumberPageObject</module>
+        <module>JavaEx</module>
+        <module>DataDrivenFramework</module>
     </modules>
 
     <dependencies>
