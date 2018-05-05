@@ -10,6 +10,7 @@
         <module name="cucumberPageObject" />
         <module name="DataDrivenFramework" />
         <module name="JavaEx" />
+        <module name="XmlAndJsonTest" />
       </profile>
     </annotationProcessing>
   </component>

@@ -1,6 +1,8 @@
 package com.file;
 
 import java.io.File;
+import java.net.URI;
+import java.net.URISyntaxException;
 
 public class FileExe {
 
@@ -12,11 +14,11 @@ public class FileExe {
         return fileName;
     }
 
-    public File gsoUpload(String fileName) {
-        if (fileName.endsWith("*.txt") && fileName.startsWith("apac")) {
-            return new  File("src/main/resources/correct.txt").getAbsoluteFile();
+    public static URI gsoUpload(String fileName) throws URISyntaxException {
+        if (fileName.endsWith("txt") && fileName.startsWith("apac")) {
+            return new URI("JavaEx/src/main/resources/correct.txt");
         } else{
-            return new File("src/main/resources/incorrect.txt").getAbsoluteFile();
+            return new URI("JavaEx/src/main/resources/incorrect.txt");
     }
     }
 

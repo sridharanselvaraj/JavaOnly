@@ -58,7 +58,7 @@ public class Hanburger {
         }
         if(this.addition2Name !=null)
         {
-            hamburgerPrice+=this.addition1Price;
+            hamburgerPrice+=this.addition2Price;
             System.out.println("Added "+this.addition2Name+" for an extra "+this.addition2Price);
         }
         if(this.addition3Name !=null)

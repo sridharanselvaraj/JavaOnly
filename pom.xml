@@ -25,6 +25,7 @@
         <module>cucumberPageObject</module>
         <module>JavaEx</module>
         <module>DataDrivenFramework</module>
+        <module>DataDrivenFrameworkV2</module>
     </modules>
 
     <dependencies>
