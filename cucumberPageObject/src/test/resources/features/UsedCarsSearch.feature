@@ -21,4 +21,4 @@ Feature: Acceptance testing to validate Search cars page is working
     And select price as "$2,000" from price dropdown on Used Search Car Page
     And click on Find_My_Next_Car button on Used Search Car Page
     Then I should see list of searched cars on Used Search Car Page
-    And the page title should be "Audi A4 Cars Under 2000 for Sale SA | CarsGuide"
+    And the page title should be "Audi A4 Under 2000 for Sale SA | carsguide"

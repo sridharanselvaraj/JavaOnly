@@ -26,6 +26,7 @@
         <module>JavaEx</module>
         <module>DataDrivenFramework</module>
         <module>DataDrivenFrameworkV2</module>
+        <module>CucumberPracticals</module>
     </modules>
 
     <dependencies>

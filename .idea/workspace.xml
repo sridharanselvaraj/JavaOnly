@@ -1,45 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e16470aa-9218-4e62-828c-527de3c8b206" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/DataDrivenFrameworkV2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/rough/TestJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/rough/TestXML.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/utils/XMLReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/resources/locators/OR.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/resources/locators/OR.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/ArrayChallange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/ArrayResizeing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Arrays/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collection/ArrayListChallenge/Contacts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collection/ArrayListChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collection/ArrayListChallenge/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collection/AutoboxAndUnbox/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collection/AutoboxAndUnbox/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collection/AutoboxAndUnbox/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collection/AutoboxAndUnbox/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collection/GroceryList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collection/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Enum/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Enum/Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Enum/UserStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Enum/WhoisRIP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/file/test.txt" afterDir="false" />
+    <list default="true" id="337da90d-eca5-4f80-aae2-5bbebff30faa" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__avalon_framework_avalon_framework_4_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_3_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_codeborne_phantomjsdriver_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_cucumber_extentsreport_2_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_core_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_html_0_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_java_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_junit_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_picocontainer_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_cucumber_testng_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__info_cukes_gherkin_2_12_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_5_7_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_mail_mail_1_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jaxen_jaxen_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__logkit_logkit_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_htmlunit_neko_htmlunit_2_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_stax_api_1_0_spec_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beanshell_bsh_2_0b4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_client_9_4_3_v20170317.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_4_3_v20170317.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_15_v20160210.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_4_1_v20170120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_15_v20160210.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_4_1_v20170120.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_4_3_v20170317.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_4_3_v20170317.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_4_3_v20170317.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_picocontainer_picocontainer_2_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_htmlunit_driver_2_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_53_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_53_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_2_53_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_53_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_53_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_53_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_53_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_53_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_53_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_53_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_uncommons_reportng_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__velocity_velocity_dep_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberBasics/CucumberBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CucumberPracticals/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataDrivenFramework/DataDrivenFramework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataDrivenFrameworkV2/DataDrivenFrameworkV2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaEx/JavaPracties.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/cucumberPageObject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/src/test/resources/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cucumberPageObject/src/test/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/listeners/CustomListeners.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/listeners/CustomListeners.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEx/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEx/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaEx/src/main/java/com/file/FileExe.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEx/src/main/java/com/file/FileExe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberBasics/target/cucumber/embedded0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberBasics/target/cucumber/formatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/formatter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberBasics/target/cucumber/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberBasics/target/cucumber/jquery-1.8.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/jquery-1.8.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberBasics/target/cucumber/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CucumberBasics/target/cucumber/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CucumberBasics/target/cucumber/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaOnly.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaOnly.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cucumberPageObject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cucumberPageObject/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/utils/SeleniumDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/utils/SeleniumDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/BeforeAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/BeforeAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/SearchCars.feature" beforeDir="false" afterPath="$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/SearchCars.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/UsedCarsSearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/UsedCarsSearch.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MasterChallenge/Hanburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MasterChallenge/Hanburger.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/CucumberBasics/target/" />
     <ignored path="$PROJECT_DIR$/cucumberPageObject/target/" />
     <ignored path="$PROJECT_DIR$/JavaEx/target/" />
+    <ignored path="$PROJECT_DIR$/CucumberBasics/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/DataDrivenFramework/target/" />
     <ignored path="$PROJECT_DIR$/DataDrivenFrameworkV2/target/" />
+    <ignored path="$PROJECT_DIR$/CucumberPracticals/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,18 +171,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/JavaOnly$TestProperties.ic" NAME="TestProperties Coverage Results" MODIFIED="1524921733207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.sri.rough.*</FILTER>
-    </SUITE>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="XMLReader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/utils/XMLReader.java">
+      <file leaf-file-name="RunTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/runners/RunTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="17">
+              <caret line="7" selection-start-line="6" selection-start-column="12" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,20 +185,77 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestXML.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/rough/TestXML.java">
+      <file leaf-file-name="BeforeAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/BeforeAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="126" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="127" />
+            <state relative-caret-position="136">
+              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestJson.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/rough/TestJson.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CucumberPracticals/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="9" column="77" lean-forward="true" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
+            <state relative-caret-position="206">
+              <caret line="77" selection-start-line="77" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucumberPageObject/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="77" selection-start-line="13" selection-end-line="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AfterActions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/AfterActions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-115">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchCarsSteps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/SearchCarsSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeleniumDriver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/utils/SeleniumDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+              <folding>
+                <element signature="e#975#976#0" expanded="true" />
+                <element signature="e#1006#1007#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsedCarsSteps.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/UsedCarsSteps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarsGuideHomePageAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/actions/CarsGuideHomePageAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,118 +264,24 @@
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-408" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataDrivenFrameworkV2/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JsonReader.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/utils/JsonReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/JavaEx/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Singleton" />
-        <option value="Enum" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>carsSearchPage</find>
-      <find>file</find>
-      <find>![CDATA[</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>usedCarSearchPage</replace>
-      <replace>dest1</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubProjectSettings">
-    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
-    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="sridharanselvaraj" />
-    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="JavaOnly" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/utils/log4j.properties" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/testcases/LoginTest.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/rough/ExcelReader.java" />
-        <option value="$PROJECT_DIR$/testng.xml" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/rough/TestTimeStamp.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/base/TestUtil.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/utils/ExcelReader.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/testcases/CAddCustomerTest.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/resources/extentconfig/ReportsConfig.xml" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/pom.xml" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/resources/properties/log4j.properties" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/utils/ExtentManager.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/resources/runner/testng.xml" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/base/TestBase.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/testcases/BankMangerLoginTest.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/resources/properties/OR.properties" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/testcases/OpenAccountTest.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/testcases/AddCustomerTest.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/utils/TestUtil.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/listeners/CustomListeners.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/file/test.txt" />
-        <option value="$PROJECT_DIR$/src/test/java/FileEx.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Arrays/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Arrays/ArrayChallange.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MasterChallenge/Hanburger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Arrays/ArrayResizeing.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Collection/GroceryList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Collection/Main.java" />
-        <option value="$PROJECT_DIR$/JavaEx/src/main/java/com/file/FileExe.java" />
-        <option value="$PROJECT_DIR$/JavaEx/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Collection/Contacts.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Collection/MobilePhone.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Collection/ArrayListChallenge/Contacts.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Collection/ArrayListChallenge/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Collection/ArrayListChallenge/MobilePhone.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Collection/AutoboxAndUnbox/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Collection/AutoboxAndUnbox/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Collection/AutoboxAndUnbox/Branch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Collection/AutoboxAndUnbox/Bank.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Enum/UserStatus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Enum/WhoisRIP.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Enum/Operation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Enum/Main.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/locators/OR.xml" />
-        <option value="$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/resources/locators/OR.xml" />
-        <option value="$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/utils/XMLReader.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/rough/TestXML.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/resources/locators/OR.json" />
-        <option value="$PROJECT_DIR$/DataDrivenFrameworkV2/pom.xml" />
-        <option value="$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/utils/JsonReader.java" />
-        <option value="$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/rough/TestJson.java" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/pom.xml" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/UsedCarsSearch.feature" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/SearchCars.feature" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/utils/SeleniumDriver.java" />
+        <option value="$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/BeforeAction.java" />
+        <option value="$PROJECT_DIR$/CucumberPracticals/pom.xml" />
       </list>
     </option>
   </component>
@@ -215,32 +297,28 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="DataDrivenFramework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="DataDrivenFramework" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+          <item name="cucumberPageObject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="30" />
-    <option name="y" value="5" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="466" />
+    <option name="y" value="-23" />
+    <option name="width" value="1346" />
+    <option name="height" value="679" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,95 +329,74 @@
             <path>
               <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
-              <item name="DataDrivenFrameworkV2" type="462c0819:PsiDirectoryNode" />
+              <item name="cucumberPageObject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
-              <item name="DataDrivenFrameworkV2" type="462c0819:PsiDirectoryNode" />
+              <item name="cucumberPageObject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
-              <item name="DataDrivenFrameworkV2" type="462c0819:PsiDirectoryNode" />
+              <item name="cucumberPageObject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
-              <item name="DataDrivenFrameworkV2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
-              <item name="DataDrivenFrameworkV2" type="462c0819:PsiDirectoryNode" />
+              <item name="cucumberPageObject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="rough" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
-              <item name="DataDrivenFrameworkV2" type="462c0819:PsiDirectoryNode" />
+              <item name="cucumberPageObject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
-              <item name="DataDrivenFrameworkV2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="CucumberPracticals" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
-              <item name="DataDrivenFrameworkV2" type="462c0819:PsiDirectoryNode" />
+              <item name="CucumberPracticals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
+              <item name="CucumberPracticals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaOnly" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaOnly" type="462c0819:PsiDirectoryNode" />
+              <item name="CucumberPracticals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="locators" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\DataDrivenFramework\src\test\resources\extentconfig" />
-      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\DataDrivenFramework\src\test\resources\logs" />
-      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\DataDrivenFramework\src\test\java\com\sri\utils" />
-      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\DataDrivenFramework\src\test\resources\excel" />
-      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\DataDrivenFramework\src\test\resources\drivers" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="PolymorphismChallenge" />
-      <recent name="runners" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\DataDrivenFrameworkV2\src\test\resources" />
-      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\DataDrivenFramework\src\test\resources\properties" />
-      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\CucumberBasics\src\test" />
-      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\src\test\resources\driver" />
-      <recent name="C:\Users\admin\IdeaProjects\JavaOnly\src\main\java" />
+      <recent name="C:\Users\Ramya\IdeaProjects\JavaOnly\cucumberPageObject\src\test\resources\drivers" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -354,72 +411,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestJson">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-    </configuration>
-    <configuration name="ArrayResizeing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ArrayResizeing" />
-      <module name="JavaOnly" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.ArrayListChallenge.Main" />
-      <module name="JavaOnly" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Collection.ArrayListChallenge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="JavaEx" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Enum.Main" />
-      <module name="JavaOnly" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Enum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestJson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rough.TestJson" />
-      <module name="XmlAndJsonTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rough.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestXML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rough.TestXML" />
-      <module name="XmlAndJsonTest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rough.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumberPageObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="runners" />
+      <option name="MAIN_CLASS_NAME" value="runners.RunTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -430,35 +447,12 @@
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="singleModule" />
       </option>
       <patterns />
-    </configuration>
-    <configuration name="C:/Users/admin/IdeaProjects/JavaOnly/DataDrivenFramework/src/test/resources/runner/testng.xml" type="TestNG" factoryName="TestNG" nameIsGenerated="true">
-      <module name="DataDrivenFramework" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/DataDrivenFramework/src/test/resources/runner/testng.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -471,7 +465,7 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -482,36 +476,9 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
-    </configuration>
-    <list>
-      <item itemvalue="TestNG.C:/Users/admin/IdeaProjects/JavaOnly/DataDrivenFramework/src/test/resources/runner/testng.xml" />
-      <item itemvalue="Application.ArrayResizeing" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (3)" />
-      <item itemvalue="Application.TestXML" />
-      <item itemvalue="Application.TestJson" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestJson" />
-        <item itemvalue="Application.TestXML" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.RunTest" />
       </list>
     </recent_temporary>
   </component>
@@ -520,646 +487,269 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e16470aa-9218-4e62-828c-527de3c8b206" name="Default" comment="" />
-      <created>1523181766610</created>
+      <changelist id="337da90d-eca5-4f80-aae2-5bbebff30faa" name="Default" comment="" />
+      <created>1530369744510</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1523181766610</updated>
+      <updated>1530369744510</updated>
     </task>
-    <task id="LOCAL-00001" summary="Initial practical Examples Java 8">
-      <created>1523817640638</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1523817640639</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Initial practical Examples Java 8">
-      <created>1524334992266</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1524334992266</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Initial practical Examples Java 8">
-      <created>1524335227151</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1524335227151</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Selenium Cucumber Projects">
-      <created>1524335364184</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1524335364184</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Inheritance Java core">
-      <created>1524421803492</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1524421803492</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Encapsulation Java core">
-      <created>1524600084074</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1524600084074</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Encapsulation Java core">
-      <created>1524689924725</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1524689924725</updated>
-    </task>
-    <task id="LOCAL-00008" summary="OOPS Challenges Java core">
-      <created>1524774482586</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1524774482586</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_admin_IdeaProjects_JavaOnly_DataDrivenFramework_src_test_resources_runner_testng_xml - 2018.04.28 at 20h 59m 46s.xml">
-      <configuration name="C:/Users/admin/IdeaProjects/JavaOnly/DataDrivenFramework/src/test/resources/runner/testng.xml" configurationId="TestNG" />
+    <history-entry file="RunTest - 2018.06.30 at 16h 07m 56s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="C__Users_admin_IdeaProjects_JavaOnly_DataDrivenFramework_src_test_resources_runner_testng_xml - 2018.04.28 at 21h 01m 12s.xml">
-      <configuration name="C:/Users/admin/IdeaProjects/JavaOnly/DataDrivenFramework/src/test/resources/runner/testng.xml" configurationId="TestNG" />
+    <history-entry file="RunTest - 2018.06.30 at 16h 11m 47s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="C__Users_admin_IdeaProjects_JavaOnly_DataDrivenFramework_src_test_resources_runner_testng_xml - 2018.04.28 at 21h 02m 23s.xml">
-      <configuration name="C:/Users/admin/IdeaProjects/JavaOnly/DataDrivenFramework/src/test/resources/runner/testng.xml" configurationId="TestNG" />
+    <history-entry file="RunTest - 2018.06.30 at 16h 18m 53s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="C__Users_admin_IdeaProjects_JavaOnly_DataDrivenFramework_src_test_resources_runner_testng_xml - 2018.04.28 at 21h 04m 44s.xml">
-      <configuration name="C:/Users/admin/IdeaProjects/JavaOnly/DataDrivenFramework/src/test/resources/runner/testng.xml" configurationId="TestNG" />
+    <history-entry file="RunTest - 2018.06.30 at 16h 20m 31s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="C__Users_admin_IdeaProjects_JavaOnly_DataDrivenFramework_src_test_resources_runner_testng_xml - 2018.04.28 at 21h 11m 09s.xml">
-      <configuration name="C:/Users/admin/IdeaProjects/JavaOnly/DataDrivenFramework/src/test/resources/runner/testng.xml" configurationId="TestNG" />
+    <history-entry file="RunTest - 2018.06.30 at 16h 21m 59s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="C__Users_admin_IdeaProjects_JavaOnly_DataDrivenFramework_src_test_resources_runner_testng_xml - 2018.04.28 at 21h 12m 22s.xml">
-      <configuration name="C:/Users/admin/IdeaProjects/JavaOnly/DataDrivenFramework/src/test/resources/runner/testng.xml" configurationId="TestNG" />
+    <history-entry file="RunTest - 2018.06.30 at 17h 54m 26s.xml">
+      <configuration name="RunTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="C__Users_admin_IdeaProjects_JavaOnly_DataDrivenFramework_src_test_resources_runner_testng_xml - 2018.04.28 at 21h 31m 47s.xml">
-      <configuration name="C:/Users/admin/IdeaProjects/JavaOnly/DataDrivenFramework/src/test/resources/runner/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_admin_IdeaProjects_JavaOnly_DataDrivenFramework_src_test_resources_runner_testng_xml - 2018.04.28 at 21h 32m 21s.xml">
-      <configuration name="C:/Users/admin/IdeaProjects/JavaOnly/DataDrivenFramework/src/test/resources/runner/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_admin_IdeaProjects_JavaOnly_DataDrivenFramework_src_test_resources_runner_testng_xml - 2018.04.29 at 10h 20m 44s.xml">
-      <configuration name="C:/Users/admin/IdeaProjects/JavaOnly/DataDrivenFramework/src/test/resources/runner/testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="FileEx_main - 2018.04.29 at 21h 08m 42s.xml">
-      <configuration name="FileEx.main" configurationId="JUnit" />
-    </history-entry>
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.34102142" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49848714" weight="0.29983526" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32838285" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.35255355" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.25642964" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.0" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.40197694" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49848714" weight="0.24546953" />
-      <window_info id="Capture Tool" order="4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50075644" side_tool="true" weight="0.32838285" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.5214521" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2753404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39868203" />
-      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.28548124" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="12" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3294893" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="sbt" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.28548124" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49848714" visible="true" weight="0.40197694" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49848714" weight="0.24546953" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27155825" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="12" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.34102142" />
-      <window_info id="Image Layers" order="5" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39868203" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32980332" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.35255355" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="sbt" order="4" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3294893" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49848714" weight="0.29983526" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.25642964" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial practical Examples Java 8" />
-    <MESSAGE value="Selenium Cucumber Projects" />
-    <MESSAGE value="Inheritance Java core" />
-    <MESSAGE value="Encapsulation Java core" />
-    <MESSAGE value="OOPS Challenges Java core" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOPS Challenges Java core" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/base/TestBase.java</url>
-          <line>106</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="1" />
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/ExtentTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="202" selection-start-line="202" selection-end-line="202" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFramework/src/test/resources/extentconfig/ReportsConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="194" column="5" lean-forward="true" selection-start-line="194" selection-start-column="5" selection-end-line="194" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFramework/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="97" column="14" selection-start-line="97" selection-start-column="14" selection-end-line="97" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFramework/src/test/resources/properties/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFramework/src/test/resources/logs/selenium.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-595" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/utils/ExtentManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/testcases/BankMangerLoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/testcases/OpenAccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/utils/TestUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/listeners/CustomListeners.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/testcases/AddCustomerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFramework/src/test/java/com/sri/base/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="103" column="16" selection-start-line="103" selection-start-column="16" selection-end-line="103" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFramework/src/test/resources/properties/OR.properties">
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/runners/RunTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFramework/src/test/resources/properties/Config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="69" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/FileEx.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/resources/file/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="140" selection-start-line="10" selection-start-column="140" selection-end-line="10" selection-end-column="140" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFramework/src/test/resources/runner/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MasterChallenge/HealthyBurger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MasterChallenge/Hanburger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arrays/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arrays/ArrayResizeing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="309" column="15" selection-start-line="309" selection-start-column="15" selection-end-line="309" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Collection/GroceryList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="26" column="49" lean-forward="true" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/nio/file/Paths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="133" selection-start-line="133" selection-end-line="133" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Arrays/ArrayChallange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="41" column="61" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaEx/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Collection/ArrayListChallenge/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Collection/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="82" column="46" selection-start-line="82" selection-start-column="46" selection-end-line="82" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaEx/src/main/java/com/file/FileExe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Collection/ArrayListChallenge/MobilePhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="53" column="61" selection-start-line="53" selection-start-column="61" selection-end-line="53" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Collection/ArrayListChallenge/Contacts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Collection/AutoboxAndUnbox/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Collection/AutoboxAndUnbox/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" lean-forward="true" selection-start-column="35" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Collection/AutoboxAndUnbox/Branch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Collection/AutoboxAndUnbox/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="72" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Enum/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Enum/WhoisRIP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Enum/Operation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="74" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Enum/UserStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/dom4j/dom4j/1.1/dom4j-1.1.jar!/org/jaxen/dom4j/XPath.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/resources/locators/OR.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/utils/XMLReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <caret line="7" selection-start-line="6" selection-start-column="12" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/UsedCarsSearch.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="33" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFrameworkV2/pom.xml">
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/actions/CarsGuideHomePageAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/utils/JsonReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        <state>
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/rough/TestXML.java">
+    <entry file="file://$PROJECT_DIR$/JavaEx/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/SearchCars.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="126" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="127" />
+        <state relative-caret-position="357">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/resources/locators/OR.json">
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/runners/RunTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataDrivenFrameworkV2/src/test/java/rough/TestJson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="9" column="77" lean-forward="true" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
+        <state relative-caret-position="85">
+          <caret line="7" selection-start-line="6" selection-start-column="12" selection-end-line="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/SearchCars.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="33" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/actions/CarsGuideHomePageAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaEx/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/UsedCarsSearch.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/actions/CarsGuideHomePageAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaEx/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/SearchCars.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/resources/features/UsedCarsSearch.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="23" column="72" selection-start-line="23" selection-start-column="72" selection-end-line="23" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/runners/RunTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" selection-start-line="6" selection-start-column="12" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/AfterActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/UsedCarsSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/SearchCarsSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/main/java/pages/utils/SeleniumDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+          <folding>
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1006#1007#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/src/test/java/steps/BeforeAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumberPageObject/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="77" selection-start-line="13" selection-end-line="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CucumberPracticals/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="77" selection-start-line="77" selection-end-line="77" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>JavaOnly</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

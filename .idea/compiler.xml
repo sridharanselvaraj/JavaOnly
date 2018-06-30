@@ -8,10 +8,20 @@
         <outputRelativeToContentRoot value="true" />
         <module name="CucumberBasics" />
         <module name="cucumberPageObject" />
+        <module name="CucumberPracticals" />
         <module name="DataDrivenFramework" />
-        <module name="JavaEx" />
-        <module name="XmlAndJsonTest" />
+        <module name="DataDrivenFrameworkV2" />
+        <module name="JavaPracties" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CucumberBasics" target="1.8" />
+      <module name="cucumberPageObject" target="1.8" />
+      <module name="CucumberPracticals" target="1.8" />
+      <module name="DataDrivenFramework" target="1.8" />
+      <module name="DataDrivenFrameworkV2" target="1.8" />
+      <module name="JavaOnly" target="1.8" />
+      <module name="JavaPracties" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
